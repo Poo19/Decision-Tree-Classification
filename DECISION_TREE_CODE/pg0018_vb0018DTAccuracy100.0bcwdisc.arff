@@ -1,0 +1,10 @@
+
+
+***************CONFUSION MATRIX***************
+Total = 683			Predicted 2's			Predicted 4's
+Actual 2's				441						3
+Predicted 4's			1						238	
+
+***************ACCURACY***************
+
+Accuracy = 99.41434846266472%
